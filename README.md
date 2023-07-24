@@ -1,4 +1,4 @@
-# Task-Management-API-
+# Task-Management-API
 Task Management API using the Go programming 
 
 The assignment involves building a Task Management API using the Go programming language, Gin web framework, and GORM as the ORM library for database interactions. The API will allow users to perform CRUD operations on tasks, including creating, reading, updating, and deleting tasks. The tasks are represented by a "Task" struct with attributes like title, description, due date, and status. The API is tested using tools like curl or Postman to send HTTP requests and verify the functionality of each API endpoint. The assignment covers essential concepts of building RESTful APIs in Go and provides practical experience in handling HTTP requests and database operations. It's a valuable learning opportunity for backend development with Go and related web technologies.
